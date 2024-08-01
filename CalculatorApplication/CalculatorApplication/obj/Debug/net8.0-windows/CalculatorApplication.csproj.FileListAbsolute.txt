@@ -1,0 +1,16 @@
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.exe
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.deps.json
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.runtimeconfig.json
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\bin\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfo.cs
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\refint\CalculatorApplication.dll
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.genruntimeconfig.cache
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\ref\CalculatorApplication.dll
+C:\Users\marvi\source\repos\CalculatorApplication\CalculatorApplication\obj\Debug\net8.0-windows\CalculatorApplication.FrmCalculator.resources

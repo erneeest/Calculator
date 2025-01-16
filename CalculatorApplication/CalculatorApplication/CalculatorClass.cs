@@ -10,8 +10,7 @@ namespace CalculatorApplication
 
     public class CalculatorClass
     {
-        //Ernest Talagtag: testing ko lang git push sa different branch ng repo mo tol tapos pull request ko merge mo
-
+        
         public Formula<double>? info;
 
         public double GetSum(double txtBoxNum1, double txtBoxNum2)
